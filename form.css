@@ -1,0 +1,70 @@
+#chat_form input {
+    margin: 5px;
+}
+header {
+    font-size: 3em;
+    font-weight: bold;
+    color: whitesmoke;
+}
+#chat_form {
+    margin-top: 2px;
+}
+#chat_form label {
+    text-align: center;
+}
+#chat_box {
+    padding: 20px 20px;
+    width: 90%;
+}
+.btn {
+    background-color: royalblue;
+    padding: 10px 20px;
+}
+.btn:hover {
+    cursor: pointer;
+}
+#user_comment {
+    padding: 5px 10px;
+    width: 90%;
+}
+#user_name {
+    padding: 5px 10px;
+    width: 80%;
+}
+#last_display {
+    padding: 5px 10px;
+}
+body {
+    background-color: teal;
+}
+label {
+    color: whitesmoke;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+form {
+    background-color: darkslategrey;
+    padding: 25px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 70px;
+    margin-right: 70px;
+}
+input {
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 5px;
+}
+textarea {
+    border-radius: 5px;
+    border: none;
+    font-family: sans-serif;
+}
+.container {
+    display: flex;
+}
+.item {
+    margin-right: 30px;
+    width: 50%;
+}
